@@ -1,0 +1,9 @@
+body{
+    font-family: helvetica, Arial, sans-serif;
+}
+body > header{
+    background-color: orange;
+}
+body > footer{
+    background-color: orange;
+}
